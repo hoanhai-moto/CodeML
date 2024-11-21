@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  musicid:
+    image: musicid
+    build:
+      context: .
+      dockerfile: Dockerfile

@@ -1,0 +1,32 @@
+{
+    "database_type": "mysql",
+    "database_proxy_url": "/api/db_proxy/upload_db",
+    "database": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "password",
+        "database": "database_name"
+    },
+    "runtime": {
+        "window_size": 5,
+        "sliding_step": 3,
+        "end_song": true,
+        "threshold": 20,
+        "gpu": 0
+    },
+    "audfprint": {
+        "db_dir": "./music_id_db",
+        "db_base_name": "fpdbase.pklz",
+        "db_name_shell_pattern": "*.pklz",
+        "ncores": 1,
+        "hashbits": 20,
+        "density": 70,
+        "bucketsize": 100,
+        "fanout": 5,
+        "max_matches": 50,
+        "time_quantile": 0.05,
+        "min_count": 10,
+        "exact_count": true,
+        "find_time_range": true
+    }
+}

@@ -1,0 +1,1417 @@
+05/12/2020 11:24:45 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_32 Fantasy.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:24:45 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_34 Foreboding Future.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:25:44 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_33 Orchestral.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:25:48 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_31 Enlightened.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:26:09 AM [INFO]: Finished fingerprint for FWM_ETK01_32 Fantasy:
+                    Duration: 61 (s),
+                    Fingerprint_time: 58 (s),
+                    Insert_DB_time: 25 (s),
+                    Hashset_len: 111843 (hash_value, time_offset)
+                
+05/12/2020 11:26:19 AM [INFO]: Finished fingerprint for FWM_ETK01_34 Foreboding Future:
+                    Duration: 64 (s),
+                    Fingerprint_time: 62 (s),
+                    Insert_DB_time: 9 (s),
+                    Hashset_len: 39618 (hash_value, time_offset)
+                
+05/12/2020 11:26:40 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_30 Darkness.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:26:48 AM [INFO]: Finished fingerprint for FWM_ETK01_33 Orchestral:
+                    Duration: 47 (s),
+                    Fingerprint_time: 56 (s),
+                    Insert_DB_time: 7 (s),
+                    Hashset_len: 36875 (hash_value, time_offset)
+                
+05/12/2020 11:27:05 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_28 Fear.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:27:23 AM [INFO]: Finished fingerprint for FWM_ETK01_31 Enlightened:
+                    Duration: 64 (s),
+                    Fingerprint_time: 76 (s),
+                    Insert_DB_time: 17 (s),
+                    Hashset_len: 81954 (hash_value, time_offset)
+                
+05/12/2020 11:27:29 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_29 A Forsaken World.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:27:31 AM [INFO]: Finished fingerprint for FWM_ETK01_30 Darkness:
+                    Duration: 43 (s),
+                    Fingerprint_time: 48 (s),
+                    Insert_DB_time: 2 (s),
+                    Hashset_len: 10701 (hash_value, time_offset)
+                
+05/12/2020 11:28:03 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_27 Mega Guitars.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:28:12 AM [INFO]: Finished fingerprint for FWM_ETK01_28 Fear:
+                    Duration: 52 (s),
+                    Fingerprint_time: 57 (s),
+                    Insert_DB_time: 9 (s),
+                    Hashset_len: 38002 (hash_value, time_offset)
+                
+05/12/2020 11:28:42 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_25 Earth Shaker.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:28:53 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_26 Sinister.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:29:07 AM [INFO]: Finished fingerprint for FWM_ETK01_29 A Forsaken World:
+                    Duration: 71 (s),
+                    Fingerprint_time: 72 (s),
+                    Insert_DB_time: 25 (s),
+                    Hashset_len: 112832 (hash_value, time_offset)
+                
+05/12/2020 11:29:39 AM [INFO]: Finished fingerprint for FWM_ETK01_27 Mega Guitars:
+                    Duration: 44 (s),
+                    Fingerprint_time: 49 (s),
+                    Insert_DB_time: 31 (s),
+                    Hashset_len: 138916 (hash_value, time_offset)
+                
+05/12/2020 11:29:53 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_24 Distress.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:29:54 AM [INFO]: Finished fingerprint for FWM_ETK01_25 Earth Shaker:
+                    Duration: 54 (s),
+                    Fingerprint_time: 71 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 3556 (hash_value, time_offset)
+                
+05/12/2020 11:30:03 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_21 Mystic (without voice).mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:30:42 AM [INFO]: Finished fingerprint for FWM_ETK01_26 Sinister:
+                    Duration: 52 (s),
+                    Fingerprint_time: 69 (s),
+                    Insert_DB_time: 38 (s),
+                    Hashset_len: 182080 (hash_value, time_offset)
+                
+05/12/2020 11:31:20 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_22 Suspense.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:31:29 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_23 Sci Fi.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:31:41 AM [INFO]: Finished fingerprint for FWM_ETK01_24 Distress:
+                    Duration: 72 (s),
+                    Fingerprint_time: 86 (s),
+                    Insert_DB_time: 21 (s),
+                    Hashset_len: 89763 (hash_value, time_offset)
+                
+05/12/2020 11:31:45 AM [INFO]: Finished fingerprint for FWM_ETK01_21 Mystic (without voice):
+                    Duration: 70 (s),
+                    Fingerprint_time: 85 (s),
+                    Insert_DB_time: 4 (s),
+                    Hashset_len: 19220 (hash_value, time_offset)
+                
+05/12/2020 11:32:25 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_19 Future Shock.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:32:28 AM [INFO]: Finished fingerprint for FWM_ETK01_22 Suspense:
+                    Duration: 62 (s),
+                    Fingerprint_time: 64 (s),
+                    Insert_DB_time: 3 (s),
+                    Hashset_len: 13182 (hash_value, time_offset)
+                
+05/12/2020 11:32:34 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_18 Mental Dissonance.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:32:49 AM [INFO]: Finished fingerprint for FWM_ETK01_23 Sci Fi:
+                    Duration: 61 (s),
+                    Fingerprint_time: 65 (s),
+                    Insert_DB_time: 14 (s),
+                    Hashset_len: 61621 (hash_value, time_offset)
+                
+05/12/2020 11:33:02 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_20 Mystic (with voice).mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:33:05 AM [INFO]: Finished fingerprint for FWM_ETK01_19 Future Shock:
+                    Duration: 32 (s),
+                    Fingerprint_time: 37 (s),
+                    Insert_DB_time: 3 (s),
+                    Hashset_len: 14423 (hash_value, time_offset)
+                
+05/12/2020 11:33:53 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_15 Deep Abyss.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:33:57 AM [INFO]: Finished fingerprint for FWM_ETK01_18 Mental Dissonance:
+                    Duration: 72 (s),
+                    Fingerprint_time: 78 (s),
+                    Insert_DB_time: 4 (s),
+                    Hashset_len: 19314 (hash_value, time_offset)
+                
+05/12/2020 11:34:17 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_16 In the Shadows.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:34:44 AM [INFO]: Finished fingerprint for FWM_ETK01_20 Mystic (with voice):
+                    Duration: 72 (s),
+                    Fingerprint_time: 74 (s),
+                    Insert_DB_time: 27 (s),
+                    Hashset_len: 122313 (hash_value, time_offset)
+                
+05/12/2020 11:35:16 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_17 Futuristic.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:35:23 AM [INFO]: Finished fingerprint for FWM_ETK01_15 Deep Abyss:
+                    Duration: 70 (s),
+                    Fingerprint_time: 82 (s),
+                    Insert_DB_time: 8 (s),
+                    Hashset_len: 33669 (hash_value, time_offset)
+                
+05/12/2020 11:35:58 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_14 Its Behind You (without strings).mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:36:05 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_13 Its Behind You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:36:17 AM [INFO]: Finished fingerprint for FWM_ETK01_16 In the Shadows:
+                    Duration: 88 (s),
+                    Fingerprint_time: 101 (s),
+                    Insert_DB_time: 19 (s),
+                    Hashset_len: 81117 (hash_value, time_offset)
+                
+05/12/2020 11:36:25 AM [INFO]: Finished fingerprint for FWM_ETK01_17 Futuristic:
+                    Duration: 45 (s),
+                    Fingerprint_time: 49 (s),
+                    Insert_DB_time: 8 (s),
+                    Hashset_len: 38329 (hash_value, time_offset)
+                
+05/12/2020 11:37:13 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_10 Suspended in Time.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:37:19 AM [INFO]: Finished fingerprint for FWM_ETK01_14 Its Behind You (without strings):
+                    Duration: 67 (s),
+                    Fingerprint_time: 75 (s),
+                    Insert_DB_time: 5 (s),
+                    Hashset_len: 22258 (hash_value, time_offset)
+                
+05/12/2020 11:37:20 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_11 Choir.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:37:32 AM [INFO]: Finished fingerprint for FWM_ETK01_13 Its Behind You:
+                    Duration: 67 (s),
+                    Fingerprint_time: 74 (s),
+                    Insert_DB_time: 11 (s),
+                    Hashset_len: 51368 (hash_value, time_offset)
+                
+05/12/2020 11:38:14 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_12 Holy Land.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:38:19 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_09 Angry Shadows.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:38:20 AM [INFO]: Finished fingerprint for FWM_ETK01_10 Suspended in Time:
+                    Duration: 56 (s),
+                    Fingerprint_time: 60 (s),
+                    Insert_DB_time: 6 (s),
+                    Hashset_len: 26144 (hash_value, time_offset)
+                
+05/12/2020 11:38:38 AM [INFO]: Finished fingerprint for FWM_ETK01_11 Choir:
+                    Duration: 52 (s),
+                    Fingerprint_time: 58 (s),
+                    Insert_DB_time: 17 (s),
+                    Hashset_len: 80370 (hash_value, time_offset)
+                
+05/12/2020 11:39:05 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_08 Rise of the Invaders.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:39:08 AM [INFO]: Finished fingerprint for FWM_ETK01_12 Holy Land:
+                    Duration: 43 (s),
+                    Fingerprint_time: 51 (s),
+                    Insert_DB_time: 2 (s),
+                    Hashset_len: 9519 (hash_value, time_offset)
+                
+05/12/2020 11:39:23 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_05 Beyond the Sky.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:39:30 AM [INFO]: Finished fingerprint for FWM_ETK01_09 Angry Shadows:
+                    Duration: 56 (s),
+                    Fingerprint_time: 64 (s),
+                    Insert_DB_time: 6 (s),
+                    Hashset_len: 26253 (hash_value, time_offset)
+                
+05/12/2020 11:40:03 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_07 Infinite Territory.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:40:10 AM [INFO]: Finished fingerprint for FWM_ETK01_08 Rise of the Invaders:
+                    Duration: 56 (s),
+                    Fingerprint_time: 57 (s),
+                    Insert_DB_time: 7 (s),
+                    Hashset_len: 31196 (hash_value, time_offset)
+                
+05/12/2020 11:40:23 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_06 Deep Space.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:40:33 AM [INFO]: Finished fingerprint for FWM_ETK01_05 Beyond the Sky:
+                    Duration: 54 (s),
+                    Fingerprint_time: 59 (s),
+                    Insert_DB_time: 10 (s),
+                    Hashset_len: 47672 (hash_value, time_offset)
+                
+05/12/2020 11:41:02 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_03 Forbidden City.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:41:09 AM [INFO]: Finished fingerprint for FWM_ETK01_07 Infinite Territory:
+                    Duration: 55 (s),
+                    Fingerprint_time: 59 (s),
+                    Insert_DB_time: 6 (s),
+                    Hashset_len: 27030 (hash_value, time_offset)
+                
+05/12/2020 11:41:19 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_04 Pulse of the Enemy.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:41:29 AM [INFO]: Finished fingerprint for FWM_ETK01_06 Deep Space:
+                    Duration: 49 (s),
+                    Fingerprint_time: 55 (s),
+                    Insert_DB_time: 10 (s),
+                    Hashset_len: 46476 (hash_value, time_offset)
+                
+05/12/2020 11:42:06 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_02 Cerebral Dissension.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:42:24 AM [INFO]: Finished fingerprint for FWM_ETK01_03 Forbidden City:
+                    Duration: 58 (s),
+                    Fingerprint_time: 63 (s),
+                    Insert_DB_time: 17 (s),
+                    Hashset_len: 76038 (hash_value, time_offset)
+                
+05/12/2020 11:42:26 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET001 Drones And Atmospheres/FWM_ETK01_01 Dark Future.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:42:32 AM [INFO]: Finished fingerprint for FWM_ETK01_04 Pulse of the Enemy:
+                    Duration: 57 (s),
+                    Fingerprint_time: 67 (s),
+                    Insert_DB_time: 6 (s),
+                    Hashset_len: 25178 (hash_value, time_offset)
+                
+05/12/2020 11:43:29 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_38 Psycho Drums.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:43:34 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_36 Right Behind You.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:43:37 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_37 Rock Rise.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:43:39 AM [INFO]: Finished fingerprint for FWM_ETK01_01 Dark Future:
+                    Duration: 60 (s),
+                    Fingerprint_time: 63 (s),
+                    Insert_DB_time: 10 (s),
+                    Hashset_len: 39629 (hash_value, time_offset)
+                
+05/12/2020 11:43:44 AM [INFO]: Finished fingerprint for FWM_ETK01_02 Cerebral Dissension:
+                    Duration: 74 (s),
+                    Fingerprint_time: 86 (s),
+                    Insert_DB_time: 4 (s),
+                    Hashset_len: 19631 (hash_value, time_offset)
+                
+05/12/2020 11:43:46 AM [INFO]: Finished fingerprint for FWM_ETK02_38 Psycho Drums:
+                    Duration: 5 (s),
+                    Fingerprint_time: 7 (s),
+                    Insert_DB_time: 2 (s),
+                    Hashset_len: 10484 (hash_value, time_offset)
+                
+05/12/2020 11:43:50 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_35 Orchestral Finale Hit.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:43:55 AM [INFO]: Finished fingerprint for FWM_ETK02_37 Rock Rise:
+                    Duration: 9 (s),
+                    Fingerprint_time: 12 (s),
+                    Insert_DB_time: 4 (s),
+                    Hashset_len: 22146 (hash_value, time_offset)
+                
+05/12/2020 11:44:00 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_33 Orchestra Rise.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:44:06 AM [INFO]: Finished fingerprint for FWM_ETK02_36 Right Behind You:
+                    Duration: 20 (s),
+                    Fingerprint_time: 25 (s),
+                    Insert_DB_time: 6 (s),
+                    Hashset_len: 28156 (hash_value, time_offset)
+                
+05/12/2020 11:44:08 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_34 Orchestra Choir Rise.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:44:11 AM [INFO]: Finished fingerprint for FWM_ETK02_35 Orchestral Finale Hit:
+                    Duration: 13 (s),
+                    Fingerprint_time: 18 (s),
+                    Insert_DB_time: 3 (s),
+                    Hashset_len: 11893 (hash_value, time_offset)
+                
+05/12/2020 11:44:38 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_32 Mega Rise.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:44:39 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_31 Caught.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:44:56 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_29 Suspense.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:44:56 AM [INFO]: Finished fingerprint for FWM_ETK02_34 Orchestra Choir Rise:
+                    Duration: 28 (s),
+                    Fingerprint_time: 29 (s),
+                    Insert_DB_time: 17 (s),
+                    Hashset_len: 73182 (hash_value, time_offset)
+                
+05/12/2020 11:45:14 AM [INFO]: Finished fingerprint for FWM_ETK02_33 Orchestra Rise:
+                    Duration: 35 (s),
+                    Fingerprint_time: 39 (s),
+                    Insert_DB_time: 17 (s),
+                    Hashset_len: 80356 (hash_value, time_offset)
+                
+05/12/2020 11:45:15 AM [INFO]: Finished fingerprint for FWM_ETK02_31 Caught:
+                    Duration: 11 (s),
+                    Fingerprint_time: 16 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 5656 (hash_value, time_offset)
+                
+05/12/2020 11:45:26 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_30 Gotcha.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:45:30 AM [INFO]: Finished fingerprint for FWM_ETK02_29 Suspense:
+                    Duration: 23 (s),
+                    Fingerprint_time: 30 (s),
+                    Insert_DB_time: 4 (s),
+                    Hashset_len: 19865 (hash_value, time_offset)
+                
+05/12/2020 11:45:47 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_28 Doomed.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:46:05 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_27 Shocker.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:46:06 AM [INFO]: Finished fingerprint for FWM_ETK02_32 Mega Rise:
+                    Duration: 52 (s),
+                    Fingerprint_time: 69 (s),
+                    Insert_DB_time: 18 (s),
+                    Hashset_len: 83512 (hash_value, time_offset)
+                
+05/12/2020 11:46:18 AM [INFO]: Finished fingerprint for FWM_ETK02_30 Gotcha:
+                    Duration: 30 (s),
+                    Fingerprint_time: 39 (s),
+                    Insert_DB_time: 11 (s),
+                    Hashset_len: 47989 (hash_value, time_offset)
+                
+05/12/2020 11:46:20 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_25 Eerie.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:46:25 AM [INFO]: Finished fingerprint for FWM_ETK02_28 Doomed:
+                    Duration: 22 (s),
+                    Fingerprint_time: 32 (s),
+                    Insert_DB_time: 5 (s),
+                    Hashset_len: 22296 (hash_value, time_offset)
+                
+05/12/2020 11:46:31 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_24 Orchestral Swish-Hit 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:46:32 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_23 Orchestral Swish-Hit 1.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:46:42 AM [INFO]: Finished fingerprint for FWM_ETK02_27 Shocker:
+                    Duration: 19 (s),
+                    Fingerprint_time: 25 (s),
+                    Insert_DB_time: 11 (s),
+                    Hashset_len: 48291 (hash_value, time_offset)
+                
+05/12/2020 11:46:44 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_26 Ominous.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:46:44 AM [INFO]: Finished fingerprint for FWM_ETK02_25 Eerie:
+                    Duration: 10 (s),
+                    Fingerprint_time: 12 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 6945 (hash_value, time_offset)
+                
+05/12/2020 11:46:46 AM [INFO]: Finished fingerprint for FWM_ETK02_24 Orchestral Swish-Hit 2:
+                    Duration: 8 (s),
+                    Fingerprint_time: 13 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 5261 (hash_value, time_offset)
+                
+05/12/2020 11:46:48 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_18 Metal Hit 4.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:46:50 AM [INFO]: Finished fingerprint for FWM_ETK02_23 Orchestral Swish-Hit 1:
+                    Duration: 10 (s),
+                    Fingerprint_time: 15 (s),
+                    Insert_DB_time: 2 (s),
+                    Hashset_len: 10060 (hash_value, time_offset)
+                
+05/12/2020 11:46:56 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_20 Terror.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:00 AM [INFO]: Finished fingerprint for FWM_ETK02_26 Ominous:
+                    Duration: 10 (s),
+                    Fingerprint_time: 11 (s),
+                    Insert_DB_time: 4 (s),
+                    Hashset_len: 17879 (hash_value, time_offset)
+                
+05/12/2020 11:47:02 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_21 Twisted.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:03 AM [INFO]: Finished fingerprint for FWM_ETK02_18 Metal Hit 4:
+                    Duration: 11 (s),
+                    Fingerprint_time: 13 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 6120 (hash_value, time_offset)
+                
+05/12/2020 11:47:10 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_19 Shot Gun.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:14 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_22 Eerie Rise Hit.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:15 AM [INFO]: Finished fingerprint for FWM_ETK02_20 Terror:
+                    Duration: 11 (s),
+                    Fingerprint_time: 13 (s),
+                    Insert_DB_time: 5 (s),
+                    Hashset_len: 23869 (hash_value, time_offset)
+                
+05/12/2020 11:47:16 AM [INFO]: Finished fingerprint for FWM_ETK02_21 Twisted:
+                    Duration: 10 (s),
+                    Fingerprint_time: 11 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 5783 (hash_value, time_offset)
+                
+05/12/2020 11:47:19 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_13 Hit 13.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:20 AM [INFO]: Finished fingerprint for FWM_ETK02_19 Shot Gun:
+                    Duration: 7 (s),
+                    Fingerprint_time: 9 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 3711 (hash_value, time_offset)
+                
+05/12/2020 11:47:30 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_15 Metal Hit 1.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:31 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_14 Hit 14.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:32 AM [INFO]: Finished fingerprint for FWM_ETK02_22 Eerie Rise Hit:
+                    Duration: 15 (s),
+                    Fingerprint_time: 15 (s),
+                    Insert_DB_time: 2 (s),
+                    Hashset_len: 11500 (hash_value, time_offset)
+                
+05/12/2020 11:47:33 AM [INFO]: Finished fingerprint for FWM_ETK02_13 Hit 13:
+                    Duration: 11 (s),
+                    Fingerprint_time: 11 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 3543 (hash_value, time_offset)
+                
+05/12/2020 11:47:38 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_17 Metal Hit 3.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:39 AM [INFO]: Finished fingerprint for FWM_ETK02_15 Metal Hit 1:
+                    Duration: 7 (s),
+                    Fingerprint_time: 8 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 3132 (hash_value, time_offset)
+                
+05/12/2020 11:47:41 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_16 Metal Hit 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:42 AM [INFO]: Finished fingerprint for FWM_ETK02_14 Hit 14:
+                    Duration: 9 (s),
+                    Fingerprint_time: 10 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 2888 (hash_value, time_offset)
+                
+05/12/2020 11:47:49 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_10 Hit 10.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:50 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_11 Hit 11.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:50 AM [INFO]: Finished fingerprint for FWM_ETK02_16 Metal Hit 2:
+                    Duration: 7 (s),
+                    Fingerprint_time: 8 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 3525 (hash_value, time_offset)
+                
+05/12/2020 11:47:51 AM [INFO]: Finished fingerprint for FWM_ETK02_17 Metal Hit 3:
+                    Duration: 11 (s),
+                    Fingerprint_time: 11 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 5011 (hash_value, time_offset)
+                
+05/12/2020 11:47:55 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_08 Hit 8.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:56 AM [INFO]: Finished fingerprint for FWM_ETK02_10 Hit 10:
+                    Duration: 4 (s),
+                    Fingerprint_time: 5 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 4648 (hash_value, time_offset)
+                
+05/12/2020 11:47:58 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_12 Hit 12.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:47:58 AM [INFO]: Finished fingerprint for FWM_ETK02_11 Hit 11:
+                    Duration: 6 (s),
+                    Fingerprint_time: 7 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 3657 (hash_value, time_offset)
+                
+05/12/2020 11:48:09 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_09 Hit 9.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:48:12 AM [INFO]: Finished fingerprint for FWM_ETK02_08 Hit 8:
+                    Duration: 14 (s),
+                    Fingerprint_time: 14 (s),
+                    Insert_DB_time: 3 (s),
+                    Hashset_len: 15488 (hash_value, time_offset)
+                
+05/12/2020 11:48:14 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_05 Hit 5.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:48:14 AM [INFO]: Finished fingerprint for FWM_ETK02_12 Hit 12:
+                    Duration: 15 (s),
+                    Fingerprint_time: 16 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 2918 (hash_value, time_offset)
+                
+05/12/2020 11:48:18 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_03 Hit 3.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:48:19 AM [INFO]: Finished fingerprint for FWM_ETK02_09 Hit 9:
+                    Duration: 7 (s),
+                    Fingerprint_time: 9 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 2331 (hash_value, time_offset)
+                
+05/12/2020 11:48:19 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_07 Hit 7 .mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:48:19 AM [INFO]: Finished fingerprint for FWM_ETK02_05 Hit 5:
+                    Duration: 4 (s),
+                    Fingerprint_time: 5 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 891 (hash_value, time_offset)
+                
+05/12/2020 11:48:28 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_06 Hit 6 .mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:48:28 AM [INFO]: Finished fingerprint for FWM_ETK02_03 Hit 3:
+                    Duration: 9 (s),
+                    Fingerprint_time: 9 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 3192 (hash_value, time_offset)
+                
+05/12/2020 11:48:29 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_04 Hit 4 .mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:48:30 AM [INFO]: Finished fingerprint for FWM_ETK02_07 Hit 7 :
+                    Duration: 9 (s),
+                    Fingerprint_time: 9 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 3466 (hash_value, time_offset)
+                
+05/12/2020 11:48:36 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_02 Hit 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:48:38 AM [INFO]: Finished fingerprint for FWM_ETK02_06 Hit 6 :
+                    Duration: 7 (s),
+                    Fingerprint_time: 8 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 8723 (hash_value, time_offset)
+                
+05/12/2020 11:48:40 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET002 Hits And Rises/FWM_ETK02_01 Hit 1.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:48:42 AM [INFO]: Finished fingerprint for FWM_ETK02_04 Hit 4 :
+                    Duration: 10 (s),
+                    Fingerprint_time: 11 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 7086 (hash_value, time_offset)
+                
+05/12/2020 11:48:44 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_23 The Chase.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:48:45 AM [INFO]: Finished fingerprint for FWM_ETK02_02 Hit 2:
+                    Duration: 6 (s),
+                    Fingerprint_time: 7 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 3947 (hash_value, time_offset)
+                
+05/12/2020 11:48:45 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_25 Junkyard.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:48:46 AM [INFO]: Finished fingerprint for FWM_ETK02_01 Hit 1:
+                    Duration: 4 (s),
+                    Fingerprint_time: 5 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 1736 (hash_value, time_offset)
+                
+05/12/2020 11:49:42 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_24 Breaking Through.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:49:48 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_20 The Cutting Edge.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:50:24 AM [INFO]: Finished fingerprint for FWM_ETK03_23 The Chase:
+                    Duration: 59 (s),
+                    Fingerprint_time: 57 (s),
+                    Insert_DB_time: 42 (s),
+                    Hashset_len: 189527 (hash_value, time_offset)
+                
+05/12/2020 11:51:06 AM [INFO]: Finished fingerprint for FWM_ETK03_25 Junkyard:
+                    Duration: 59 (s),
+                    Fingerprint_time: 62 (s),
+                    Insert_DB_time: 41 (s),
+                    Hashset_len: 169107 (hash_value, time_offset)
+                
+05/12/2020 11:51:13 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_22 Military Tactics.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:51:26 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_21 Relentless.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:51:48 AM [INFO]: Finished fingerprint for FWM_ETK03_24 Breaking Through:
+                    Duration: 60 (s),
+                    Fingerprint_time: 90 (s),
+                    Insert_DB_time: 34 (s),
+                    Hashset_len: 138589 (hash_value, time_offset)
+                
+05/12/2020 11:52:33 AM [INFO]: Finished fingerprint for FWM_ETK03_20 The Cutting Edge:
+                    Duration: 59 (s),
+                    Fingerprint_time: 96 (s),
+                    Insert_DB_time: 45 (s),
+                    Hashset_len: 177914 (hash_value, time_offset)
+                
+05/12/2020 11:52:44 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_19 Urgent Measures.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:52:50 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_18 Tribal Drums 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:53:22 AM [INFO]: Finished fingerprint for FWM_ETK03_21 Relentless:
+                    Duration: 53 (s),
+                    Fingerprint_time: 77 (s),
+                    Insert_DB_time: 38 (s),
+                    Hashset_len: 145716 (hash_value, time_offset)
+                
+05/12/2020 11:54:00 AM [INFO]: Finished fingerprint for FWM_ETK03_22 Military Tactics:
+                    Duration: 65 (s),
+                    Fingerprint_time: 95 (s),
+                    Insert_DB_time: 37 (s),
+                    Hashset_len: 144346 (hash_value, time_offset)
+                
+05/12/2020 11:54:10 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_17 Tribal Drums 1.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:54:31 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_16 Running with Demons.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:54:40 AM [INFO]: Finished fingerprint for FWM_ETK03_18 Tribal Drums 2:
+                    Duration: 55 (s),
+                    Fingerprint_time: 79 (s),
+                    Insert_DB_time: 30 (s),
+                    Hashset_len: 113739 (hash_value, time_offset)
+                
+05/12/2020 11:55:34 AM [INFO]: Finished fingerprint for FWM_ETK03_19 Urgent Measures:
+                    Duration: 70 (s),
+                    Fingerprint_time: 106 (s),
+                    Insert_DB_time: 53 (s),
+                    Hashset_len: 190002 (hash_value, time_offset)
+                
+05/12/2020 11:55:43 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_15 Hurricane.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:55:56 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_14 Final Decimation.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:56:35 AM [INFO]: Finished fingerprint for FWM_ETK03_17 Tribal Drums 1:
+                    Duration: 63 (s),
+                    Fingerprint_time: 92 (s),
+                    Insert_DB_time: 51 (s),
+                    Hashset_len: 182758 (hash_value, time_offset)
+                
+05/12/2020 11:57:12 AM [INFO]: Finished fingerprint for FWM_ETK03_16 Running with Demons:
+                    Duration: 56 (s),
+                    Fingerprint_time: 83 (s),
+                    Insert_DB_time: 37 (s),
+                    Hashset_len: 122153 (hash_value, time_offset)
+                
+05/12/2020 11:57:32 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_13 Backend Drums 4.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:57:40 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_10 Backend Drums 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:58:13 AM [INFO]: Finished fingerprint for FWM_ETK03_15 Hurricane:
+                    Duration: 72 (s),
+                    Fingerprint_time: 108 (s),
+                    Insert_DB_time: 40 (s),
+                    Hashset_len: 151125 (hash_value, time_offset)
+                
+05/12/2020 11:58:42 AM [INFO]: Finished fingerprint for FWM_ETK03_14 Final Decimation:
+                    Duration: 70 (s),
+                    Fingerprint_time: 103 (s),
+                    Insert_DB_time: 29 (s),
+                    Hashset_len: 102408 (hash_value, time_offset)
+                
+05/12/2020 11:58:44 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_09 Backend Drums 1.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 11:59:28 AM [INFO]: Finished fingerprint for FWM_ETK03_13 Backend Drums 4:
+                    Duration: 48 (s),
+                    Fingerprint_time: 72 (s),
+                    Insert_DB_time: 43 (s),
+                    Hashset_len: 145725 (hash_value, time_offset)
+                
+05/12/2020 11:59:35 AM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_11 Backend Drums 3.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:00:17 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_12 Backend Drums 3 (no strings at climax) .mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:00:34 PM [INFO]: Finished fingerprint for FWM_ETK03_10 Backend Drums 2:
+                    Duration: 79 (s),
+                    Fingerprint_time: 114 (s),
+                    Insert_DB_time: 58 (s),
+                    Hashset_len: 204585 (hash_value, time_offset)
+                
+05/12/2020 12:01:20 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_08 Massive Drums 3.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:01:20 PM [INFO]: Finished fingerprint for FWM_ETK03_09 Backend Drums 1:
+                    Duration: 63 (s),
+                    Fingerprint_time: 91 (s),
+                    Insert_DB_time: 46 (s),
+                    Hashset_len: 138184 (hash_value, time_offset)
+                
+05/12/2020 12:02:01 PM [INFO]: Finished fingerprint for FWM_ETK03_11 Backend Drums 3:
+                    Duration: 68 (s),
+                    Fingerprint_time: 104 (s),
+                    Insert_DB_time: 40 (s),
+                    Hashset_len: 129468 (hash_value, time_offset)
+                
+05/12/2020 12:02:05 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_07 Massive Drums 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:02:17 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_05 Monster Drums 4.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:02:47 PM [INFO]: Finished fingerprint for FWM_ETK03_12 Backend Drums 3 (no strings at climax) :
+                    Duration: 68 (s),
+                    Fingerprint_time: 108 (s),
+                    Insert_DB_time: 41 (s),
+                    Hashset_len: 129703 (hash_value, time_offset)
+                
+05/12/2020 12:03:06 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_06 Massive Drums.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:03:27 PM [INFO]: Finished fingerprint for FWM_ETK03_08 Massive Drums 3:
+                    Duration: 40 (s),
+                    Fingerprint_time: 56 (s),
+                    Insert_DB_time: 39 (s),
+                    Hashset_len: 123453 (hash_value, time_offset)
+                
+05/12/2020 12:03:56 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_04 Monster Drums 3.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:04:11 PM [INFO]: Finished fingerprint for FWM_ETK03_07 Massive Drums 2:
+                    Duration: 39 (s),
+                    Fingerprint_time: 60 (s),
+                    Insert_DB_time: 43 (s),
+                    Hashset_len: 134001 (hash_value, time_offset)
+                
+05/12/2020 12:04:17 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_03 Monster Drums 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:05:18 PM [INFO]: Finished fingerprint for FWM_ETK03_05 Monster Drums 4:
+                    Duration: 62 (s),
+                    Fingerprint_time: 97 (s),
+                    Insert_DB_time: 66 (s),
+                    Hashset_len: 197077 (hash_value, time_offset)
+                
+05/12/2020 12:05:32 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_02 Monster Drums (version 2).mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:05:41 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET003 Percussive Builds And Backends/FWM_ETK03_01 Monster Drums.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:06:09 PM [INFO]: Finished fingerprint for FWM_ETK03_06 Massive Drums:
+                    Duration: 45 (s),
+                    Fingerprint_time: 69 (s),
+                    Insert_DB_time: 51 (s),
+                    Hashset_len: 143161 (hash_value, time_offset)
+                
+05/12/2020 12:07:09 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_30 The Decision.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:07:14 PM [INFO]: Finished fingerprint for FWM_ETK03_04 Monster Drums 3:
+                    Duration: 63 (s),
+                    Fingerprint_time: 94 (s),
+                    Insert_DB_time: 64 (s),
+                    Hashset_len: 184346 (hash_value, time_offset)
+                
+05/12/2020 12:07:19 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_28 Power Trip.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:07:58 PM [INFO]: Finished fingerprint for FWM_ETK03_03 Monster Drums 2:
+                    Duration: 57 (s),
+                    Fingerprint_time: 83 (s),
+                    Insert_DB_time: 43 (s),
+                    Hashset_len: 118741 (hash_value, time_offset)
+                
+05/12/2020 12:08:16 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_29 Rock Solid.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:08:34 PM [INFO]: Finished fingerprint for FWM_ETK03_02 Monster Drums (version 2):
+                    Duration: 65 (s),
+                    Fingerprint_time: 96 (s),
+                    Insert_DB_time: 35 (s),
+                    Hashset_len: 99250 (hash_value, time_offset)
+                
+05/12/2020 12:08:43 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_26 Wide Open Spaces.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:08:48 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_25 Bad Ass.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:09:16 PM [INFO]: Finished fingerprint for FWM_ETK03_01 Monster Drums:
+                    Duration: 65 (s),
+                    Fingerprint_time: 97 (s),
+                    Insert_DB_time: 41 (s),
+                    Hashset_len: 111654 (hash_value, time_offset)
+                
+05/12/2020 12:09:47 PM [INFO]: Finished fingerprint for FWM_ETK04_30 The Decision:
+                    Duration: 43 (s),
+                    Fingerprint_time: 66 (s),
+                    Insert_DB_time: 31 (s),
+                    Hashset_len: 84107 (hash_value, time_offset)
+                
+05/12/2020 12:10:07 PM [INFO]: Finished fingerprint for FWM_ETK04_29 Rock Solid:
+                    Duration: 19 (s),
+                    Fingerprint_time: 26 (s),
+                    Insert_DB_time: 19 (s),
+                    Hashset_len: 52037 (hash_value, time_offset)
+                
+05/12/2020 12:10:18 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_27 Race Against Time.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:10:24 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_23 Strange Thoughts.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:11:02 PM [INFO]: Finished fingerprint for FWM_ETK04_28 Power Trip:
+                    Duration: 59 (s),
+                    Fingerprint_time: 88 (s),
+                    Insert_DB_time: 54 (s),
+                    Hashset_len: 143513 (hash_value, time_offset)
+                
+05/12/2020 12:11:48 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_24 Revelation.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:12:07 PM [INFO]: Finished fingerprint for FWM_ETK04_25 Bad Ass:
+                    Duration: 59 (s),
+                    Fingerprint_time: 88 (s),
+                    Insert_DB_time: 65 (s),
+                    Hashset_len: 167162 (hash_value, time_offset)
+                
+05/12/2020 12:12:18 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_19 Need More Time.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:13:16 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_18 The Getaway.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:13:43 PM [INFO]: Finished fingerprint for FWM_ETK04_26 Wide Open Spaces:
+                    Duration: 66 (s),
+                    Fingerprint_time: 100 (s),
+                    Insert_DB_time: 95 (s),
+                    Hashset_len: 244096 (hash_value, time_offset)
+                
+05/12/2020 12:14:12 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_20 Tense Moments.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:14:42 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_22 The Gangster.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:15:11 PM [INFO]: Finished fingerprint for FWM_ETK04_27 Race Against Time:
+                    Duration: 60 (s),
+                    Fingerprint_time: 89 (s),
+                    Insert_DB_time: 88 (s),
+                    Hashset_len: 222812 (hash_value, time_offset)
+                
+05/12/2020 12:15:20 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_21 Calling the Gods.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:16:08 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_16 Every Second Counts.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:16:12 PM [INFO]: Finished fingerprint for FWM_ETK04_23 Strange Thoughts:
+                    Duration: 71 (s),
+                    Fingerprint_time: 112 (s),
+                    Insert_DB_time: 60 (s),
+                    Hashset_len: 157818 (hash_value, time_offset)
+                
+05/12/2020 12:16:36 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_17 Predator.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:16:50 PM [INFO]: Finished fingerprint for FWM_ETK04_24 Revelation:
+                    Duration: 59 (s),
+                    Fingerprint_time: 87 (s),
+                    Insert_DB_time: 38 (s),
+                    Hashset_len: 99607 (hash_value, time_offset)
+                
+05/12/2020 12:18:00 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_15 Dark Memories.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:18:16 PM [INFO]: Finished fingerprint for FWM_ETK04_19 Need More Time:
+                    Duration: 72 (s),
+                    Fingerprint_time: 113 (s),
+                    Insert_DB_time: 85 (s),
+                    Hashset_len: 226341 (hash_value, time_offset)
+                
+05/12/2020 12:18:22 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_14 International Conspiracy.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:18:53 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_13 Paradise.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:19:09 PM [INFO]: Finished fingerprint for FWM_ETK04_18 The Getaway:
+                    Duration: 58 (s),
+                    Fingerprint_time: 85 (s),
+                    Insert_DB_time: 52 (s),
+                    Hashset_len: 136012 (hash_value, time_offset)
+                
+05/12/2020 12:19:24 PM [INFO]: Finished fingerprint for FWM_ETK04_20 Tense Moments:
+                    Duration: 47 (s),
+                    Fingerprint_time: 67 (s),
+                    Insert_DB_time: 15 (s),
+                    Hashset_len: 41319 (hash_value, time_offset)
+                
+05/12/2020 12:20:18 PM [INFO]: Finished fingerprint for FWM_ETK04_22 The Gangster:
+                    Duration: 57 (s),
+                    Fingerprint_time: 85 (s),
+                    Insert_DB_time: 53 (s),
+                    Hashset_len: 139616 (hash_value, time_offset)
+                
+05/12/2020 12:20:35 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_11 Menacing Fury.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:20:44 PM [INFO]: Finished fingerprint for FWM_ETK04_21 Calling the Gods:
+                    Duration: 50 (s),
+                    Fingerprint_time: 75 (s),
+                    Insert_DB_time: 26 (s),
+                    Hashset_len: 71023 (hash_value, time_offset)
+                
+05/12/2020 12:21:29 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_12 Time.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:21:46 PM [INFO]: Finished fingerprint for FWM_ETK04_16 Every Second Counts:
+                    Duration: 71 (s),
+                    Fingerprint_time: 110 (s),
+                    Insert_DB_time: 61 (s),
+                    Hashset_len: 163140 (hash_value, time_offset)
+                
+05/12/2020 12:22:46 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_08 Endless Fields.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:22:54 PM [INFO]: Finished fingerprint for FWM_ETK04_17 Predator:
+                    Duration: 68 (s),
+                    Fingerprint_time: 105 (s),
+                    Insert_DB_time: 67 (s),
+                    Hashset_len: 168804 (hash_value, time_offset)
+                
+05/12/2020 12:23:05 PM [INFO]: Finished fingerprint for FWM_ETK04_15 Dark Memories:
+                    Duration: 35 (s),
+                    Fingerprint_time: 53 (s),
+                    Insert_DB_time: 11 (s),
+                    Hashset_len: 27860 (hash_value, time_offset)
+                
+05/12/2020 12:23:31 PM [INFO]: Finished fingerprint for FWM_ETK04_13 Paradise:
+                    Duration: 68 (s),
+                    Fingerprint_time: 101 (s),
+                    Insert_DB_time: 25 (s),
+                    Hashset_len: 68593 (hash_value, time_offset)
+                
+05/12/2020 12:23:36 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_10 Tragedy Awaits.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:25:25 PM [INFO]: Finished fingerprint for FWM_ETK04_14 International Conspiracy:
+                    Duration: 118 (s),
+                    Fingerprint_time: 186 (s),
+                    Insert_DB_time: 114 (s),
+                    Hashset_len: 297698 (hash_value, time_offset)
+                
+05/12/2020 12:25:35 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_09 In Search Of.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:25:38 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_07 Silent Rage.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:27:04 PM [INFO]: Finished fingerprint for FWM_ETK04_11 Menacing Fury:
+                    Duration: 86 (s),
+                    Fingerprint_time: 130 (s),
+                    Insert_DB_time: 98 (s),
+                    Hashset_len: 249860 (hash_value, time_offset)
+                
+05/12/2020 12:27:31 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_04 Departure.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:28:05 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_05 Lost Memories.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:28:31 PM [INFO]: Finished fingerprint for FWM_ETK04_12 Time:
+                    Duration: 82 (s),
+                    Fingerprint_time: 125 (s),
+                    Insert_DB_time: 87 (s),
+                    Hashset_len: 228312 (hash_value, time_offset)
+                
+05/12/2020 12:29:19 PM [INFO]: Finished fingerprint for FWM_ETK04_08 Endless Fields:
+                    Duration: 105 (s),
+                    Fingerprint_time: 168 (s),
+                    Insert_DB_time: 47 (s),
+                    Hashset_len: 124943 (hash_value, time_offset)
+                
+05/12/2020 12:29:41 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_06 Realization.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:29:45 PM [INFO]: Finished fingerprint for FWM_ETK04_10 Tragedy Awaits:
+                    Duration: 83 (s),
+                    Fingerprint_time: 121 (s),
+                    Insert_DB_time: 26 (s),
+                    Hashset_len: 68497 (hash_value, time_offset)
+                
+05/12/2020 12:29:55 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_03 Hostile Territory.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:30:08 PM [INFO]: Finished fingerprint for FWM_ETK04_07 Silent Rage:
+                    Duration: 80 (s),
+                    Fingerprint_time: 112 (s),
+                    Insert_DB_time: 22 (s),
+                    Hashset_len: 56678 (hash_value, time_offset)
+                
+05/12/2020 12:30:58 PM [INFO]: Finished fingerprint for FWM_ETK04_09 In Search Of:
+                    Duration: 93 (s),
+                    Fingerprint_time: 148 (s),
+                    Insert_DB_time: 49 (s),
+                    Hashset_len: 127370 (hash_value, time_offset)
+                
+05/12/2020 12:31:19 PM [INFO]: Finished fingerprint for FWM_ETK04_05 Lost Memories:
+                    Duration: 66 (s),
+                    Fingerprint_time: 95 (s),
+                    Insert_DB_time: 20 (s),
+                    Hashset_len: 55715 (hash_value, time_offset)
+                
+05/12/2020 12:31:30 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_01 Ordinary Life.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:31:52 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET004 Intros And Setups/FWM_ETK04_02 Moment of Truth.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:32:25 PM [INFO]: Finished fingerprint for FWM_ETK04_04 Departure:
+                    Duration: 90 (s),
+                    Fingerprint_time: 142 (s),
+                    Insert_DB_time: 65 (s),
+                    Hashset_len: 171142 (hash_value, time_offset)
+                
+05/12/2020 12:32:51 PM [INFO]: Finished fingerprint for FWM_ETK04_06 Realization:
+                    Duration: 75 (s),
+                    Fingerprint_time: 108 (s),
+                    Insert_DB_time: 26 (s),
+                    Hashset_len: 68564 (hash_value, time_offset)
+                
+05/12/2020 12:33:30 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_25 Times up.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:33:31 PM [INFO]: Finished fingerprint for FWM_ETK04_03 Hostile Territory:
+                    Duration: 78 (s),
+                    Fingerprint_time: 116 (s),
+                    Insert_DB_time: 40 (s),
+                    Hashset_len: 103020 (hash_value, time_offset)
+                
+05/12/2020 12:33:49 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_23 Final Countdown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:34:00 PM [INFO]: Finished fingerprint for FWM_ETK04_01 Ordinary Life:
+                    Duration: 80 (s),
+                    Fingerprint_time: 119 (s),
+                    Insert_DB_time: 28 (s),
+                    Hashset_len: 75533 (hash_value, time_offset)
+                
+05/12/2020 12:34:32 PM [INFO]: Finished fingerprint for FWM_ETK04_02 Moment of Truth:
+                    Duration: 80 (s),
+                    Fingerprint_time: 116 (s),
+                    Insert_DB_time: 31 (s),
+                    Hashset_len: 82850 (hash_value, time_offset)
+                
+05/12/2020 12:34:32 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_24 Killer Instinct.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:34:47 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_21 Maximum Force.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:35:09 PM [INFO]: Finished fingerprint for FWM_ETK05_23 Final Countdown:
+                    Duration: 29 (s),
+                    Fingerprint_time: 42 (s),
+                    Insert_DB_time: 36 (s),
+                    Hashset_len: 96309 (hash_value, time_offset)
+                
+05/12/2020 12:36:03 PM [INFO]: Finished fingerprint for FWM_ETK05_25 Times up:
+                    Duration: 49 (s),
+                    Fingerprint_time: 76 (s),
+                    Insert_DB_time: 54 (s),
+                    Hashset_len: 137838 (hash_value, time_offset)
+                
+05/12/2020 12:36:28 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_22 Maximum Force (Percussion Only).mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:36:29 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_19 Trapped.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:37:23 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_18 Hostile Invasion (Percussion Only).mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:37:34 PM [INFO]: Finished fingerprint for FWM_ETK05_21 Maximum Force:
+                    Duration: 74 (s),
+                    Fingerprint_time: 100 (s),
+                    Insert_DB_time: 66 (s),
+                    Hashset_len: 178374 (hash_value, time_offset)
+                
+05/12/2020 12:38:25 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_20 Chaos.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:38:42 PM [INFO]: Finished fingerprint for FWM_ETK05_24 Killer Instinct:
+                    Duration: 84 (s),
+                    Fingerprint_time: 116 (s),
+                    Insert_DB_time: 67 (s),
+                    Hashset_len: 176561 (hash_value, time_offset)
+                
+05/12/2020 12:39:14 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_16 Extreme Sacrifice (Percussion Only).mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:39:15 PM [INFO]: Finished fingerprint for FWM_ETK05_19 Trapped:
+                    Duration: 35 (s),
+                    Fingerprint_time: 53 (s),
+                    Insert_DB_time: 32 (s),
+                    Hashset_len: 86257 (hash_value, time_offset)
+                
+05/12/2020 12:39:35 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_17 Hostile Invasion.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:40:23 PM [INFO]: Finished fingerprint for FWM_ETK05_22 Maximum Force (Percussion Only):
+                    Duration: 74 (s),
+                    Fingerprint_time: 116 (s),
+                    Insert_DB_time: 67 (s),
+                    Hashset_len: 169866 (hash_value, time_offset)
+                
+05/12/2020 12:41:19 PM [INFO]: Finished fingerprint for FWM_ETK05_18 Hostile Invasion (Percussion Only):
+                    Duration: 73 (s),
+                    Fingerprint_time: 110 (s),
+                    Insert_DB_time: 56 (s),
+                    Hashset_len: 146408 (hash_value, time_offset)
+                
+05/12/2020 12:41:21 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_13 Ultimate Retribution.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:41:26 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_14 Ultimate Retribution (Percussion Only).mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:42:12 PM [INFO]: Finished fingerprint for FWM_ETK05_20 Chaos:
+                    Duration: 44 (s),
+                    Fingerprint_time: 69 (s),
+                    Insert_DB_time: 53 (s),
+                    Hashset_len: 129856 (hash_value, time_offset)
+                
+05/12/2020 12:43:54 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_15 Extreme Sacrifice.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:43:57 PM [INFO]: Finished fingerprint for FWM_ETK05_16 Extreme Sacrifice (Percussion Only):
+                    Duration: 81 (s),
+                    Fingerprint_time: 124 (s),
+                    Insert_DB_time: 105 (s),
+                    Hashset_len: 263033 (hash_value, time_offset)
+                
+05/12/2020 12:44:06 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_11 Ritual.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:45:01 PM [INFO]: Finished fingerprint for FWM_ETK05_17 Hostile Invasion:
+                    Duration: 73 (s),
+                    Fingerprint_time: 110 (s),
+                    Insert_DB_time: 64 (s),
+                    Hashset_len: 160113 (hash_value, time_offset)
+                
+05/12/2020 12:45:41 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_12 Straight Ahead.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:46:16 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_09 Inevitable.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:46:43 PM [INFO]: Finished fingerprint for FWM_ETK05_14 Ultimate Retribution (Percussion Only):
+                    Duration: 89 (s),
+                    Fingerprint_time: 146 (s),
+                    Insert_DB_time: 101 (s),
+                    Hashset_len: 253865 (hash_value, time_offset)
+                
+05/12/2020 12:47:23 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_08 Destructor.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:47:31 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_10 Just in Time.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:48:43 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_07 Runaway Train.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:48:49 PM [INFO]: Finished fingerprint for FWM_ETK05_13 Ultimate Retribution:
+                    Duration: 100 (s),
+                    Fingerprint_time: 163 (s),
+                    Insert_DB_time: 126 (s),
+                    Hashset_len: 321798 (hash_value, time_offset)
+                
+05/12/2020 12:49:04 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_06 Impending Doom.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:50:04 PM [INFO]: Finished fingerprint for FWM_ETK05_11 Ritual:
+                    Duration: 59 (s),
+                    Fingerprint_time: 94 (s),
+                    Insert_DB_time: 75 (s),
+                    Hashset_len: 189958 (hash_value, time_offset)
+                
+05/12/2020 12:50:24 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_05 Perpetual Damage.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:50:36 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_04 Magnetic Warrior.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:51:51 PM [INFO]: Finished fingerprint for FWM_ETK05_15 Extreme Sacrifice:
+                    Duration: 87 (s),
+                    Fingerprint_time: 140 (s),
+                    Insert_DB_time: 106 (s),
+                    Hashset_len: 270259 (hash_value, time_offset)
+                
+05/12/2020 12:52:04 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_03 Into the Unknown.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:52:25 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_02 Dangerous Vertigo.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:52:42 PM [INFO]: Finished fingerprint for FWM_ETK05_12 Straight Ahead:
+                    Duration: 63 (s),
+                    Fingerprint_time: 100 (s),
+                    Insert_DB_time: 50 (s),
+                    Hashset_len: 129326 (hash_value, time_offset)
+                
+05/12/2020 12:53:28 PM [INFO]: Finished fingerprint for FWM_ETK05_09 Inevitable:
+                    Duration: 47 (s),
+                    Fingerprint_time: 74 (s),
+                    Insert_DB_time: 46 (s),
+                    Hashset_len: 119430 (hash_value, time_offset)
+                
+05/12/2020 12:53:55 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET005 Percussive Builds And Backends II/FWM_ETK05_01 Wage of War.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:54:24 PM [INFO]: Finished fingerprint for FWM_ETK05_10 Just in Time:
+                    Duration: 44 (s),
+                    Fingerprint_time: 71 (s),
+                    Insert_DB_time: 55 (s),
+                    Hashset_len: 143580 (hash_value, time_offset)
+                
+05/12/2020 12:54:25 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_38 Future World Swish Hit 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:54:51 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_39 Future World Stinger Hit.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:55:32 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_40 Future World Stinger Hit 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:55:41 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_36 Future World Rise Hit 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:55:42 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_34 Future World Mega Hit 5.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:55:47 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_35 Future World Rise Hit.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:55:58 PM [INFO]: Finished fingerprint for FWM_ETK05_08 Destructor:
+                    Duration: 64 (s),
+                    Fingerprint_time: 100 (s),
+                    Insert_DB_time: 94 (s),
+                    Hashset_len: 232877 (hash_value, time_offset)
+                
+05/12/2020 12:56:04 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_33 Future World Mega Hit 4.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:56:11 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_37 Future World Swish Hit.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:56:12 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_29 Future World Outro 11.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:56:26 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_32 Future World Mega Hit 3.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:56:39 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_28 Future World Outro 10.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:57:00 PM [INFO]: Finished fingerprint for FWM_ETK05_07 Runaway Train:
+                    Duration: 67 (s),
+                    Fingerprint_time: 100 (s),
+                    Insert_DB_time: 62 (s),
+                    Hashset_len: 161375 (hash_value, time_offset)
+                
+05/12/2020 12:57:38 PM [INFO]: Finished fingerprint for FWM_ETK05_06 Impending Doom:
+                    Duration: 58 (s),
+                    Fingerprint_time: 91 (s),
+                    Insert_DB_time: 37 (s),
+                    Hashset_len: 97142 (hash_value, time_offset)
+                
+05/12/2020 12:57:40 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_30 Future World Mega Hit 1.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:57:51 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_31 Future World Mega Hit 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:58:06 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_26 Future World Outro 8.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:58:18 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_27 Future World Outro 9.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 12:59:07 PM [INFO]: Finished fingerprint for FWM_ETK05_05 Perpetual Damage:
+                    Duration: 64 (s),
+                    Fingerprint_time: 98 (s),
+                    Insert_DB_time: 88 (s),
+                    Hashset_len: 222724 (hash_value, time_offset)
+                
+05/12/2020 12:59:07 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_23 Future World Outro 5.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:00:03 PM [INFO]: Finished fingerprint for FWM_ETK05_04 Magnetic Warrior:
+                    Duration: 70 (s),
+                    Fingerprint_time: 107 (s),
+                    Insert_DB_time: 56 (s),
+                    Hashset_len: 143622 (hash_value, time_offset)
+                
+05/12/2020 01:00:04 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_25 Future World Outro 7.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:00:47 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_24 Future World Outro 6.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:01:17 PM [INFO]: Finished fingerprint for FWM_ETK05_03 Into the Unknown:
+                    Duration: 70 (s),
+                    Fingerprint_time: 109 (s),
+                    Insert_DB_time: 73 (s),
+                    Hashset_len: 193154 (hash_value, time_offset)
+                
+05/12/2020 01:01:39 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_21 Future World Outro 3.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:02:03 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_22 Future World Outro 4.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:02:13 PM [INFO]: Finished fingerprint for FWM_ETK05_02 Dangerous Vertigo:
+                    Duration: 78 (s),
+                    Fingerprint_time: 119 (s),
+                    Insert_DB_time: 56 (s),
+                    Hashset_len: 140178 (hash_value, time_offset)
+                
+05/12/2020 01:02:23 PM [INFO]: Finished fingerprint for FWM_ETK06_38 Future World Swish Hit 2:
+                    Duration: 18 (s),
+                    Fingerprint_time: 26 (s),
+                    Insert_DB_time: 9 (s),
+                    Hashset_len: 27130 (hash_value, time_offset)
+                
+05/12/2020 01:02:33 PM [INFO]: Finished fingerprint for FWM_ETK06_39 Future World Stinger Hit:
+                    Duration: 27 (s),
+                    Fingerprint_time: 40 (s),
+                    Insert_DB_time: 9 (s),
+                    Hashset_len: 23538 (hash_value, time_offset)
+                
+05/12/2020 01:03:17 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_19 Future World Outro 1.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:03:31 PM [INFO]: Finished fingerprint for FWM_ETK05_01 Wage of War:
+                    Duration: 67 (s),
+                    Fingerprint_time: 105 (s),
+                    Insert_DB_time: 57 (s),
+                    Hashset_len: 148442 (hash_value, time_offset)
+                
+05/12/2020 01:03:32 PM [INFO]: Finished fingerprint for FWM_ETK06_40 Future World Stinger Hit 2:
+                    Duration: 5 (s),
+                    Fingerprint_time: 9 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 3228 (hash_value, time_offset)
+                
+05/12/2020 01:03:32 PM [INFO]: Finished fingerprint for FWM_ETK06_34 Future World Mega Hit 5:
+                    Duration: 3 (s),
+                    Fingerprint_time: 5 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 772 (hash_value, time_offset)
+                
+05/12/2020 01:03:35 PM [INFO]: Finished fingerprint for FWM_ETK06_35 Future World Rise Hit:
+                    Duration: 11 (s),
+                    Fingerprint_time: 17 (s),
+                    Insert_DB_time: 2 (s),
+                    Hashset_len: 7113 (hash_value, time_offset)
+                
+05/12/2020 01:03:37 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_20 Future World Outro 2.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:03:39 PM [INFO]: Finished fingerprint for FWM_ETK06_36 Future World Rise Hit 2:
+                    Duration: 19 (s),
+                    Fingerprint_time: 30 (s),
+                    Insert_DB_time: 3 (s),
+                    Hashset_len: 8207 (hash_value, time_offset)
+                
+05/12/2020 01:03:40 PM [INFO]: Finished fingerprint for FWM_ETK06_33 Future World Mega Hit 4:
+                    Duration: 4 (s),
+                    Fingerprint_time: 7 (s),
+                    Insert_DB_time: 0 (s),
+                    Hashset_len: 2086 (hash_value, time_offset)
+                
+05/12/2020 01:03:42 PM [INFO]: Finished fingerprint for FWM_ETK06_37 Future World Swish Hit:
+                    Duration: 10 (s),
+                    Fingerprint_time: 14 (s),
+                    Insert_DB_time: 2 (s),
+                    Hashset_len: 6299 (hash_value, time_offset)
+                
+05/12/2020 01:03:43 PM [INFO]: Finished fingerprint for FWM_ETK06_32 Future World Mega Hit 3:
+                    Duration: 8 (s),
+                    Fingerprint_time: 11 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 3033 (hash_value, time_offset)
+                
+05/12/2020 01:04:34 PM [INFO]: Finished fingerprint for FWM_ETK06_29 Future World Outro 11:
+                    Duration: 53 (s),
+                    Fingerprint_time: 86 (s),
+                    Insert_DB_time: 50 (s),
+                    Hashset_len: 131474 (hash_value, time_offset)
+                
+05/12/2020 01:04:35 PM [INFO]: Finished fingerprint for FWM_ETK06_30 Future World Mega Hit 1:
+                    Duration: 7 (s),
+                    Fingerprint_time: 11 (s),
+                    Insert_DB_time: 1 (s),
+                    Hashset_len: 2188 (hash_value, time_offset)
+                
+05/12/2020 01:04:37 PM [INFO]: Finished fingerprint for FWM_ETK06_31 Future World Mega Hit 2:
+                    Duration: 10 (s),
+                    Fingerprint_time: 14 (s),
+                    Insert_DB_time: 2 (s),
+                    Hashset_len: 5674 (hash_value, time_offset)
+                
+05/12/2020 01:05:12 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_18 Revolving Faith.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:05:30 PM [INFO]: Finished fingerprint for FWM_ETK06_28 Future World Outro 10:
+                    Duration: 60 (s),
+                    Fingerprint_time: 98 (s),
+                    Insert_DB_time: 52 (s),
+                    Hashset_len: 136760 (hash_value, time_offset)
+                
+05/12/2020 01:05:43 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_17 Peaceful Illusions.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:06:16 PM [INFO]: Finished fingerprint for FWM_ETK06_26 Future World Outro 8:
+                    Duration: 37 (s),
+                    Fingerprint_time: 60 (s),
+                    Insert_DB_time: 46 (s),
+                    Hashset_len: 118358 (hash_value, time_offset)
+                
+05/12/2020 01:06:43 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_16 Heavens Rise.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:07:01 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_15 Cluttered Souls.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:07:14 PM [INFO]: Finished fingerprint for FWM_ETK06_27 Future World Outro 9:
+                    Duration: 66 (s),
+                    Fingerprint_time: 105 (s),
+                    Insert_DB_time: 57 (s),
+                    Hashset_len: 147564 (hash_value, time_offset)
+                
+05/12/2020 01:08:13 PM [INFO]: Finished fingerprint for FWM_ETK06_23 Future World Outro 5:
+                    Duration: 60 (s),
+                    Fingerprint_time: 98 (s),
+                    Insert_DB_time: 58 (s),
+                    Hashset_len: 150495 (hash_value, time_offset)
+                
+05/12/2020 01:08:16 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_14 Weight of Time.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:08:31 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_13 Turbulent Blitz.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:09:22 PM [INFO]: Finished fingerprint for FWM_ETK06_25 Future World Outro 7:
+                    Duration: 59 (s),
+                    Fingerprint_time: 94 (s),
+                    Insert_DB_time: 69 (s),
+                    Hashset_len: 176635 (hash_value, time_offset)
+                
+05/12/2020 01:09:32 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_11 Abandoned Frontier.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:09:54 PM [INFO]: Finished fingerprint for FWM_ETK06_24 Future World Outro 6:
+                    Duration: 47 (s),
+                    Fingerprint_time: 75 (s),
+                    Insert_DB_time: 31 (s),
+                    Hashset_len: 84764 (hash_value, time_offset)
+                
+05/12/2020 01:10:08 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_12 Wandering Shadows.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:10:50 PM [INFO]: Finished fingerprint for FWM_ETK06_21 Future World Outro 3:
+                    Duration: 65 (s),
+                    Fingerprint_time: 96 (s),
+                    Insert_DB_time: 56 (s),
+                    Hashset_len: 146878 (hash_value, time_offset)
+                
+05/12/2020 01:11:10 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_10 The Fallen Brothers.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:11:21 PM [INFO]: Finished fingerprint for FWM_ETK06_22 Future World Outro 4:
+                    Duration: 58 (s),
+                    Fingerprint_time: 94 (s),
+                    Insert_DB_time: 30 (s),
+                    Hashset_len: 76638 (hash_value, time_offset)
+                
+05/12/2020 01:11:59 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_08 Malicious Conspiracy.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:12:09 PM [INFO]: Finished fingerprint for FWM_ETK06_20 Future World Outro 2:
+                    Duration: 60 (s),
+                    Fingerprint_time: 93 (s),
+                    Insert_DB_time: 48 (s),
+                    Hashset_len: 124399 (hash_value, time_offset)
+                
+05/12/2020 01:12:49 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_09 Eclipse of Faith.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:13:08 PM [INFO]: Finished fingerprint for FWM_ETK06_19 Future World Outro 1:
+                    Duration: 92 (s),
+                    Fingerprint_time: 145 (s),
+                    Insert_DB_time: 58 (s),
+                    Hashset_len: 153593 (hash_value, time_offset)
+                
+05/12/2020 01:13:50 PM [INFO]: Finished fingerprint for FWM_ETK06_18 Revolving Faith:
+                    Duration: 60 (s),
+                    Fingerprint_time: 90 (s),
+                    Insert_DB_time: 42 (s),
+                    Hashset_len: 108525 (hash_value, time_offset)
+                
+05/12/2020 01:14:18 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_07 Lost in the Moment.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:14:26 PM [INFO]: Finished fingerprint for FWM_ETK06_17 Peaceful Illusions:
+                    Duration: 52 (s),
+                    Fingerprint_time: 77 (s),
+                    Insert_DB_time: 35 (s),
+                    Hashset_len: 94939 (hash_value, time_offset)
+                
+05/12/2020 01:14:33 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_05 Propelling into Darkness.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:14:40 PM [INFO]: Finished fingerprint for FWM_ETK06_15 Cluttered Souls:
+                    Duration: 52 (s),
+                    Fingerprint_time: 75 (s),
+                    Insert_DB_time: 13 (s),
+                    Hashset_len: 34099 (hash_value, time_offset)
+                
+05/12/2020 01:15:20 PM [INFO]: Finished fingerprint for FWM_ETK06_16 Heavens Rise:
+                    Duration: 72 (s),
+                    Fingerprint_time: 108 (s),
+                    Insert_DB_time: 40 (s),
+                    Hashset_len: 104889 (hash_value, time_offset)
+                
+05/12/2020 01:15:46 PM [INFO]: Finished fingerprint for FWM_ETK06_13 Turbulent Blitz:
+                    Duration: 39 (s),
+                    Fingerprint_time: 59 (s),
+                    Insert_DB_time: 25 (s),
+                    Hashset_len: 68008 (hash_value, time_offset)
+                
+05/12/2020 01:15:51 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_06 Distant Dreams.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:16:17 PM [INFO]: Finished fingerprint for FWM_ETK06_14 Weight of Time:
+                    Duration: 74 (s),
+                    Fingerprint_time: 111 (s),
+                    Insert_DB_time: 31 (s),
+                    Hashset_len: 79388 (hash_value, time_offset)
+                
+05/12/2020 01:16:28 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_03 Restless Excursion.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:16:47 PM [INFO]: Finished fingerprint for FWM_ETK06_11 Abandoned Frontier:
+                    Duration: 64 (s),
+                    Fingerprint_time: 98 (s),
+                    Insert_DB_time: 29 (s),
+                    Hashset_len: 73117 (hash_value, time_offset)
+                
+05/12/2020 01:17:17 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_04 Facing the Darkness.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:17:27 PM [INFO]: Finished fingerprint for FWM_ETK06_12 Wandering Shadows:
+                    Duration: 74 (s),
+                    Fingerprint_time: 109 (s),
+                    Insert_DB_time: 39 (s),
+                    Hashset_len: 108198 (hash_value, time_offset)
+                
+05/12/2020 01:17:49 PM [INFO]: Finished fingerprint for FWM_ETK06_10 The Fallen Brothers:
+                    Duration: 68 (s),
+                    Fingerprint_time: 98 (s),
+                    Insert_DB_time: 22 (s),
+                    Hashset_len: 56562 (hash_value, time_offset)
+                
+05/12/2020 01:18:53 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_02 Visions of Blood.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:19:01 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET006 Trailer Intros, Outros And Hits/FWM_ETK06_01 Passage to Purgatory.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:19:06 PM [INFO]: Finished fingerprint for FWM_ETK06_08 Malicious Conspiracy:
+                    Duration: 84 (s),
+                    Fingerprint_time: 137 (s),
+                    Insert_DB_time: 77 (s),
+                    Hashset_len: 195794 (hash_value, time_offset)
+                
+05/12/2020 01:19:50 PM [INFO]: Finished fingerprint for FWM_ETK06_09 Eclipse of Faith:
+                    Duration: 67 (s),
+                    Fingerprint_time: 102 (s),
+                    Insert_DB_time: 43 (s),
+                    Hashset_len: 114028 (hash_value, time_offset)
+                
+05/12/2020 01:20:15 PM [INFO]: Finished fingerprint for FWM_ETK06_07 Lost in the Moment:
+                    Duration: 64 (s),
+                    Fingerprint_time: 93 (s),
+                    Insert_DB_time: 24 (s),
+                    Hashset_len: 64404 (hash_value, time_offset)
+                
+05/12/2020 01:20:17 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/35 Unrelenting Aggression.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:20:35 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/36 Hostile Warfare.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:20:53 PM [INFO]: Finished fingerprint for FWM_ETK06_05 Propelling into Darkness:
+                    Duration: 77 (s),
+                    Fingerprint_time: 114 (s),
+                    Insert_DB_time: 37 (s),
+                    Hashset_len: 95339 (hash_value, time_offset)
+                
+05/12/2020 01:21:23 PM [INFO]: Finished fingerprint for FWM_ETK06_06 Distant Dreams:
+                    Duration: 60 (s),
+                    Fingerprint_time: 85 (s),
+                    Insert_DB_time: 30 (s),
+                    Hashset_len: 81256 (hash_value, time_offset)
+                
+05/12/2020 01:21:57 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/34 Power Driven.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:22:22 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/33 Intracranial.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:22:24 PM [INFO]: Finished fingerprint for FWM_ETK06_03 Restless Excursion:
+                    Duration: 89 (s),
+                    Fingerprint_time: 144 (s),
+                    Insert_DB_time: 60 (s),
+                    Hashset_len: 154388 (hash_value, time_offset)
+                
+05/12/2020 01:23:14 PM [INFO]: Finished fingerprint for FWM_ETK06_04 Facing the Darkness:
+                    Duration: 70 (s),
+                    Fingerprint_time: 103 (s),
+                    Insert_DB_time: 49 (s),
+                    Hashset_len: 129063 (hash_value, time_offset)
+                
+05/12/2020 01:23:48 PM [INFO]: Finished fingerprint for FWM_ETK06_02 Visions of Blood:
+                    Duration: 54 (s),
+                    Fingerprint_time: 83 (s),
+                    Insert_DB_time: 34 (s),
+                    Hashset_len: 90715 (hash_value, time_offset)
+                
+05/12/2020 01:23:58 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/32 Aggressive Negotiations.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:24:05 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/31 Tenacious Desire.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:24:23 PM [INFO]: Finished fingerprint for FWM_ETK06_01 Passage to Purgatory:
+                    Duration: 64 (s),
+                    Fingerprint_time: 93 (s),
+                    Insert_DB_time: 34 (s),
+                    Hashset_len: 87574 (hash_value, time_offset)
+                
+05/12/2020 01:25:20 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/29 Control.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:25:42 PM [INFO]: Finished fingerprint for 35 Unrelenting Aggression:
+                    Duration: 67 (s),
+                    Fingerprint_time: 98 (s),
+                    Insert_DB_time: 78 (s),
+                    Hashset_len: 200869 (hash_value, time_offset)
+                
+05/12/2020 01:25:50 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/30 Control (No Choir).mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:26:27 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/26 Electric Impulse.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:26:56 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/28 Turbulent Urgency.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:27:18 PM [INFO]: Finished fingerprint for 36 Hostile Warfare:
+                    Duration: 71 (s),
+                    Fingerprint_time: 105 (s),
+                    Insert_DB_time: 96 (s),
+                    Hashset_len: 246814 (hash_value, time_offset)
+                
+05/12/2020 01:28:15 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/27 Right On Time.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:28:45 PM [INFO]: Finished fingerprint for 34 Power Driven:
+                    Duration: 82 (s),
+                    Fingerprint_time: 119 (s),
+                    Insert_DB_time: 86 (s),
+                    Hashset_len: 218308 (hash_value, time_offset)
+                
+05/12/2020 01:28:48 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/25 Binge.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:30:01 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/24 Pushing Forward.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:30:03 PM [INFO]: Finished fingerprint for 33 Intracranial:
+                    Duration: 72 (s),
+                    Fingerprint_time: 102 (s),
+                    Insert_DB_time: 77 (s),
+                    Hashset_len: 197498 (hash_value, time_offset)
+                
+05/12/2020 01:30:32 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/22 Dangerous Minute.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:30:33 PM [INFO]: Finished fingerprint for 32 Aggressive Negotiations:
+                    Duration: 54 (s),
+                    Fingerprint_time: 82 (s),
+                    Insert_DB_time: 30 (s),
+                    Hashset_len: 77721 (hash_value, time_offset)
+                
+05/12/2020 01:31:40 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/23 Self Aware.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:32:15 PM [INFO]: Finished fingerprint for 31 Tenacious Desire:
+                    Duration: 73 (s),
+                    Fingerprint_time: 102 (s),
+                    Insert_DB_time: 101 (s),
+                    Hashset_len: 259755 (hash_value, time_offset)
+                
+05/12/2020 01:32:24 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/19 Bang.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:32:54 PM [INFO]: Finished fingerprint for 29 Control:
+                    Duration: 44 (s),
+                    Fingerprint_time: 66 (s),
+                    Insert_DB_time: 39 (s),
+                    Hashset_len: 98084 (hash_value, time_offset)
+                
+05/12/2020 01:33:15 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/20 Erratic Dissonance.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:33:35 PM [INFO]: Finished fingerprint for 30 Control (No Choir):
+                    Duration: 44 (s),
+                    Fingerprint_time: 66 (s),
+                    Insert_DB_time: 40 (s),
+                    Hashset_len: 99260 (hash_value, time_offset)
+                
+05/12/2020 01:34:20 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/21 Civil Forfeiture.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])
+05/12/2020 01:34:59 PM [INFO]: Finished fingerprint for 26 Electric Impulse:
+                    Duration: 70 (s),
+                    Fingerprint_time: 106 (s),
+                    Insert_DB_time: 84 (s),
+                    Hashset_len: 216438 (hash_value, time_offset)
+                
+05/12/2020 01:35:07 PM [DEBUG]: subprocess.call(['ffmpeg', '-y', '-i', u'/content/drive/My Drive/DeepHub - Datasets/music_id dataset/emvn_sourceaudio/Music/Album - ET007 Trailer Intros And Outros/18 Escape From Damnation.mp3', '-acodec', 'pcm_s16le', '-vn', '-f', 'wav', '-'])

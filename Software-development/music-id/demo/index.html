@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<script src="https://unpkg.com/wavesurfer.js"></script>
+<div id="waveform"></div>
+<script>
+    var wavesurfer = WaveSurfer.create({
+    container: '#waveform',
+    waveColor: 'violet',
+    progressColor: 'purple'
+});
+</script>
+<script>
+    wavesurfer.load('bensound-betterdays.wav');
+    wavesurfer.play()
+</script>
+</body>
+</html>
