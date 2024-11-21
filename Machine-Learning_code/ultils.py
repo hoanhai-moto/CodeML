@@ -175,37 +175,6 @@ def prewhiten(x):
     return y
 
 
-
-def load_file_csv_fer2013(path_filecsv):
-    df = pd.read_csv(path_filecsv, encoding='utf8')
-    np.random.seed(777)
-    df = shuffle(df)
-
-    image_path = df['path'].values
-    labels = df['label'].values
-    type_data = df['type'].values
-    image_path = np.array(image_path)
-    labels = np.array(labels)
-    type_data = np.array(type_data)
-    return image_path, labels, type_data
-
-def resize_fer2013(folder_out):
-    if not os.path.exists(folder_out):
-        os.mkdir(folder_out)
-
-    image_paths, labels, type_data = load_file_csv_fer2013("/media/phongquang/DATA/TinData/DATA_Face/fer_dataset/metadata.csv")
-    f = open("/media/phongquang/DATA/TinData/DATA_Face/fer_dataset_resize.csv", 'w')
-    f.write('path,label,type\n')
-    for i in range(len(image_paths)):
-        img = cv2.imread(image_paths[i], cv2.IMREAD_COLOR)
-        img = cv2.resize(img, (96, 96))
-        img_name = os.path.split(image_paths[i])[-1]
-        cv2.imwrite(os.path.join(folder_out, img_name), img)
-        f.write(os.path.join(folder_out, img_name) + "," + str(labels[i])+ "," + type_data[i] + "\n")
-    f.close()
-    return
-
-
 def load_and_resize(folder_in, folder_out):
     if not os.path.exists(folder_out):
         os.mkdir(folder_out)
@@ -232,6 +201,3 @@ def load_and_resize(folder_in, folder_out):
             f.write(os.path.join(path_save_img, all_img[j]) + "," + str(i) + "\n")
     f.close()
 
-# load_and_resize("/media/phongquang/SSD_1T/workspace/JunkClassify_MScode/JunkClassifyMsCode",
-#                 "/media/phongquang/SSD_1T/workspace/JunkClassify_MScode/JunkClassifyMsCode_Resize")
-#resize_fer2013("/media/phongquang/DATA/TinData/DATA_Face/fer_dataset_resize")
